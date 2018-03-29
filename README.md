@@ -1,0 +1,3 @@
+# J.U.L.I.E
+A fully functional AI based web application that can process various requests made by the user and provide him/her with the solutions. 
+Julie – Ultimate Language Interpreting Enigma abbreviated as J.U.L.I.E. can do a lot of tasks on the go. Want to evaluate some mathematical expression but couldn’t find your calculator? Want to search something on Internet? Or want to send an email? J.U.L.I.E. can do all these tasks on single command.
